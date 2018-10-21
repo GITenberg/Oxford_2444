@@ -1,5 +1,5 @@
 _repo: Oxford_2444
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2444-h/images/coverb.jpg
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'University of Oxford -- History'
 - !lcc 'LF'
+- GITenberg
 title: Oxford
 url: http://www.gutenberg.org/ebooks/2444
